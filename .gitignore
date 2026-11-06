@@ -1,0 +1,23 @@
+# Generated build outputs and platform metadata
+client/client
+tracker/tracker
+client/obj/
+tracker/obj/
+tests/unit_tests
+*.dSYM/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+*.part
+
+# Local agent/account configuration
+.agents/
+.codex/
+.aws/
+
+# Local assignment/review material; diagrams are embedded in README.md
+/AOS-Assignment-3.pdf
+/docs/ASSIGNMENT_AUDIT.md
+/docs/REQUIREMENTS.md
+/docs/diagrams/
